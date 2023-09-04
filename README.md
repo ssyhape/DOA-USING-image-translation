@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a reproduction of Sound source localization based on multi-task learning and image translation network, (since the original text did not give the reproduction code, the reproduction result is not good, there may be some parts that are not directly mentioned in the paper content).
+This project is a reproduction of "Sound source localization based on multi-task learning and image translation network", (since the original text did not give the reproduction code, the reproduction result is not good, there may be some parts that are not directly mentioned in the paper content).
 
 ## Ini-process
 ```
